@@ -41,7 +41,7 @@ function App() {
          <Img src={img} alt='logo'>
             </Img>
             <TitleImg color={theme.title}>
-              Mmc center
+              MMM center
             </TitleImg>
             <Decraption color={theme.title}>
               maths center
